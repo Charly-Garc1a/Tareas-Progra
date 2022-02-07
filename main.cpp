@@ -25,10 +25,6 @@ int main()
     case 40:
         cout << "Necesita Mejorar, el alumno esta reprobado" << endl;
         break;
-
-    default:
-        cout << "Continuamos con los demas cursos con if, else" << endl;
-        break;
     }
 
     cout << "Fisica" << endl;
@@ -89,11 +85,4 @@ int main()
         cout << "Necesita mejorar, el alumno esta reprobado" << endl;
     }
     return 0;
-
-
-
-
-
-
-
 }
