@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644885890 source:/Users/djaika.gt/Desktop/CHARLY/Tareas 2022/Programas 2022/calculadora con funciones/main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+
